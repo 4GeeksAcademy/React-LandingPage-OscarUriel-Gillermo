@@ -10,3 +10,7 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.bodyPage{
+    padding-right: 15%;
+    padding-left: 15%;
+}
