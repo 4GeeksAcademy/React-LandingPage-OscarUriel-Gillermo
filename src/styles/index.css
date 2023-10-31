@@ -14,3 +14,11 @@
     padding-right: 15%;
     padding-left: 15%;
 }
+
+.footer-fixed {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;  
+}
