@@ -2,8 +2,6 @@ import React from "react";
 
 const cardStyles = {
     margin: "5px",
-    
-    
 }
 
 export const Card = () => {
