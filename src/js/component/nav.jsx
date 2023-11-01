@@ -25,13 +25,13 @@ export const NavBar = () =>{
           <a className="navbar-brand fs-6" href="#">Home</a>
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <a className="nav-link active text-secondary" aria-current="page" href="#">About</a>
+                <a className="nav-link active text-white-50" aria-current="page" href="#">About</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link active text-secondary" aria-current="page" href="#">Service</a>
+                <a className="nav-link active text-white-50" aria-current="page" href="#">Service</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link active text-secondary" aria-current="page" href="#">Contact</a>
+                <a className="nav-link active text-white-50" aria-current="page" href="#">Contact</a>
               </li>
             </ul>
           </div>

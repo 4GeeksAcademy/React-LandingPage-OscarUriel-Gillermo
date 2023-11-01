@@ -8,7 +8,7 @@ export const Card = () => {
     return(
         <div className="col-md-3 ">
         <div className="card mx-2 my-1">
-            <img src="..." className="card-img-top" alt="..." />
+            <img src="https://atasteofalaska.com/wp-content/uploads/2017/05/Small-Image-Landscape-Placeholder-500x350.jpg" className="card-img-top" alt="..." />
             <div className="card-body">
             <h5 className="card-title">Card title</h5>
             <p className="card-text">
